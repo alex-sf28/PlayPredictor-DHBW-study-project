@@ -54,6 +54,10 @@ Please also include your FACEIT username.
 
 * The analyzed time period can be limited to an active phase of approximately 4–8 weeks (e.g., a period with regular gameplay). It is not necessary to provide data spanning multiple months or years.
 
+* The data will be deleted after the completion of the thesis.
+
+* By providing your data, you agree to the processing as described [here](/CONSENT.md)
+
 ## About the Project
 
 This project is conducted as part of my Bachelor's degree in Computer Science at the Baden-Wuerttemberg Cooperative State University (Duale Hochschule Karlsruhe).

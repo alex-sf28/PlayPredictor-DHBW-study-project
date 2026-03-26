@@ -51,7 +51,7 @@ Bitte sende mir zusätzlich deinen FACEIT-Nutzernamen.
 ## Hinweis
 
 * Alle Daten werden anonymisiert und ausschließlich für wissenschaftliche Zwecke verwendet. Inhalte von Kalendereinträgen werden nicht inhaltlich ausgewertet. Stattdessen wird lediglich geprüft, ob Ereignisse identisch sind. Hierzu werden die Inhalte (z. B. Titel oder Beschreibung eines Ereignisses) unumkehrbar verschlüsselt gespeichert. Zusätzlich werden Zeitpunkte und Dauer der Ereignisse berücksichtigt.
-* Der betrachtete Zeitraum kann bewusst auf eine aktive Phase von ca. 4–8 Wochen begrenzt werden (z. B. eine Zeit, in der regelmäßig gespielt wurde). Es ist nicht notwendig, Daten über mehrere Monate oder Jahre bereitzustellen.
+* Der betrachtete Zeitraum kann auf eine aktive Phase von ca. 4–8 Wochen begrenzt werden (z. B. eine Zeit, in der regelmäßig gespielt wurde). Optional können zusätzlich die Kalenderdaten der etwa 4 Wochen davor bereitgestellt werden, um wiederkehrende Muster und Routinen besser berücksichtigen zu können.
 * Die Daten werden nach Abschluss der Arbeit gelöscht.
 * Mit dem Senden der Daten stimmst du den folgenden [Bedingungen](/CONSENT.md) zu.
 

@@ -38,7 +38,7 @@ Consent can be withdrawn at any time without providing a reason. In this case, t
 
 ## 5. Data Timeframe
 
-The provided data can be limited to a selected time period (e.g., an active phase of approximately 4–8 weeks).
+The provided data can be limited to an active phase of approximately 4–8 weeks (e.g., a period with regular gameplay). Additionally, if available, calendar data from approximately the 4 weeks prior can be provided to capture contextual patterns such as routines.
 
 ---
 

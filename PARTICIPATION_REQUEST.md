@@ -8,10 +8,15 @@ The final application, including the trained model, will be publicly available a
 
 ## Requirements
 
-* At least 100 matches played on FACEIT (ideally 150+)
-* Preferably an overlap between match data and calendar data
+* At least 100 matches played on FACEIT (ideally 150+), **within a continuous time period**
+* The analyzed time period should cover an active phase of approximately **8–12 weeks** (e.g., a period with regular gameplay)
+* Preferably an overlap between match data and calendar data within this period
 * Regular use of a calendar with multiple events per week
 * Ideally consistent naming of recurring events
+
+### Additional (optional but recommended)
+
+* Calendar data from approximately **4 weeks prior** to the analyzed period can be provided to capture contextual patterns such as routines
 
 ## Data Submission
 
@@ -57,6 +62,9 @@ Please also include your FACEIT username.
 * The data will be deleted after the completion of the thesis.
 
 * By providing your data, you agree to the processing as described [here](/CONSENT.md)
+
+## Bonus
+As a small thank you, I’ll raffle off 20 Prisma 2 Cases among all participants who meet the requirements (after submission, mid-May).
 
 ## About the Project
 <img src="dhbw-logo.png" align="right" width="200">

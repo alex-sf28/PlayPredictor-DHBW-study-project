@@ -1,46 +1,47 @@
 # Participation Request
 
-For my study project, I am looking for participants who are willing to provide their game and calendar data in an anonymized form.
+For my study project, I am looking for participants willing to share their game and calendar data in anonymized form.
 
-The goal of this project is to analyze how calendar data relates to player performance, and to develop a model that can predict a player's performance at a given point in time. The data sources used are **Counter-Strike 2** (via the FACEIT platform) and **Google Calendar**.
+The goal of this project is to analyze how calendar data relates to player performance and to develop a model that can predict a player's performance at a given point in time. The data sources used are **Counter-Strike 2** (via the FACEIT platform) and calendar data (e.g., Google Calendar or other providers that support `.ics` export).
 
 The final application, including the trained model, will be publicly available as a web application after the project is completed.
 
 ## Requirements
 
-* At least 100 matches played on FACEIT (ideally 150+), **within a continuous time period**
+* At least 100 matches played on FACEIT (ideally 150+), **within a continuous time period (no large gaps in activity)**
 * The analyzed time period should cover an active phase of approximately **8–12 weeks** (e.g., a period with regular gameplay)
-* Preferably an overlap between match data and calendar data within this period
+* Ideally, match data and calendar data should overlap during this period
 * Regular use of a calendar with multiple events per week
 * Ideally consistent naming of recurring events
 
 ### Additional (optional but recommended)
 
-* Calendar data from approximately **4 weeks prior** to the analyzed period can be provided to capture contextual patterns such as routines
+* Providing calendar data from approximately **4 weeks prior** to the analyzed period is recommended to capture contextual patterns such as routines
 
 ## Data Submission
 
-You can provide your calendar data in two ways:
+You can provide your calendar data in two ways (from any calendar provider that supports `.ics` export or sharing):
 
 ### Option 1 (recommended)
 
-Export your calendar as an `.ics` file and send it to me.
+Export your calendar as an `.ics` file and send it to me.  
+*(Most calendar providers such as Google Calendar, Outlook, Apple Calendar, etc. support this format.)*
 
-**Steps (browser version only):**
+**Steps (example using Google Calendar, browser version):**
 
 1. Open Google Calendar in your browser: https://calendar.google.com/calendar/
 2. Click the gear icon in the top right → “Settings”
-3. Select “Import & Export” → “Export”
-   *(alternatively: select a specific calendar under “Settings for my calendars” and export it)*
-4. A ZIP file will be downloaded. Please send either the ZIP file or the contained `.ics` file via email to: **[playpredictor.de@gmail.com](mailto:playpredictor.de@gmail.com)**
+3. Select “Import & Export” → “Export”  
+   *(Alternatively: select a specific calendar under “Settings for my calendars” and export it)*
+4. A ZIP file will be downloaded. Please send either the ZIP file or the contained `.ics` file via email to: **playpredictor.de@gmail.com**
 
 ---
 
 ### Option 2
 
-Send me a public calendar link (ICS URL).
+Send me a public calendar link (ICS URL) from your calendar provider.
 
-**Steps (browser version only):**
+**Steps (example using Google Calendar, browser version):**
 
 1. Open Google Calendar in your browser
 2. Go to “Settings”
@@ -53,19 +54,28 @@ Send me a public calendar link (ICS URL).
 
 Please also include your FACEIT username.
 
+*If you're unsure whether your calendar supports this, feel free to contact me.*
+
 ## Note
 
 * All data will be anonymized and used exclusively for scientific purposes. Calendar event titles and descriptions are not stored in plain text. Instead, they are irreversibly hashed, meaning the original content cannot be reconstructed. Calendar IDs and event IDs (which may contain personal information such as email addresses) are not stored at all.
+
 * The content of calendar entries is not analyzed for meaning. Instead, only whether events are identical (based on their hashed representation) is evaluated. Additionally, only non-identifying metadata such as timestamps and durations are used.
+
 * At no point can individual users be identified from the stored data.
+
 * The data will be deleted after the completion of the thesis.
+
 * By providing your data, you agree to the processing as described [here](/CONSENT.md)
 
 ## Bonus
+
 As a small thank you, 20 Prisma 2 Cases will be raffled among all participants who meet the requirements (after submission, mid-May). Participants will also get early access to the final tool.
 
 ## About the Project
+
 <img src="dhbw-logo.png" align="right" width="200">
+
 This project is conducted as part of my Bachelor's degree in Computer Science at the Baden-Wuerttemberg Cooperative State University (Duale Hochschule Karlsruhe).
 
 If you have any questions or would like more information about the project, feel free to contact me at **playpredictor.de@gmail.com**.

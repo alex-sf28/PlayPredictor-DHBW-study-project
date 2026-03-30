@@ -59,7 +59,7 @@ Please also include your FACEIT username.
 * By providing your data, you agree to the processing as described [here](/CONSENT.md)
 
 ## About the Project
-
+<img src="dhbw-logo.png" align="right" width="200">
 This project is conducted as part of my Bachelor's degree in Computer Science at the Baden-Wuerttemberg Cooperative State University (Duale Hochschule Karlsruhe).
 
 If you have any questions or would like more information about the project, feel free to contact me at **playpredictor.de@gmail.com**.

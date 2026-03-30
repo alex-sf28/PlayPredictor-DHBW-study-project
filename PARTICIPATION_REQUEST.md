@@ -57,8 +57,6 @@ Please also include your FACEIT username.
 
 * All data will be anonymized and used exclusively for scientific purposes. The content of calendar entries will not be analyzed semantically. Instead, only whether events are identical is evaluated. For this purpose, event content (e.g., title or description) is stored in an irreversibly encrypted form. Additionally, timestamps and durations of events are taken into account.
 
-* The analyzed time period can be limited to an active phase of approximately 4–8 weeks (e.g., a period with regular gameplay). Additionally, if available, calendar data from approximately the 4 weeks prior can be provided to capture contextual patterns such as routines.
-
 * The data will be deleted after the completion of the thesis.
 
 * By providing your data, you agree to the processing as described [here](/CONSENT.md)

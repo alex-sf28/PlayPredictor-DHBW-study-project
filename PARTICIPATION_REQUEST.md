@@ -64,7 +64,7 @@ Please also include your FACEIT username.
 * By providing your data, you agree to the processing as described [here](/CONSENT.md)
 
 ## Bonus
-As a small thank you, I’ll raffle off 20 Prisma 2 Cases among all participants who meet the requirements (after submission, mid-May).
+As a small thank you, 20 Prisma 2 Cases will be given away among all participants who meet the requirements (after submission, mid-May).
 
 ## About the Project
 <img src="dhbw-logo.png" align="right" width="200">

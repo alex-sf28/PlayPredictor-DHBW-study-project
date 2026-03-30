@@ -2,7 +2,7 @@
 
 For my study project, I am looking for participants who are willing to provide their game and calendar data in an anonymized form.
 
-The goal of this project is to analyze the relationship between calendar data and player performance, and to develop a model that can predict a player's performance at a specific point in time. The data sources used are **Counter-Strike 2** (via the FACEIT platform) and **Google Calendar**.
+The goal of this project is to analyze how calendar data relates to player performance, and to develop a model that can predict a player's performance at a given point in time. The data sources used are **Counter-Strike 2** (via the FACEIT platform) and **Google Calendar**.
 
 The final application, including the trained model, will be publicly available as a web application after the project is completed.
 
@@ -55,14 +55,14 @@ Please also include your FACEIT username.
 
 ## Note
 
-* All data will be anonymized and used exclusively for scientific purposes. The content of calendar entries will not be analyzed semantically. Instead, only whether events are identical is evaluated. For this purpose, event content (e.g., title or description) is stored in an irreversibly encrypted form. Additionally, timestamps and durations of events are taken into account.
-
+* All data will be anonymized and used exclusively for scientific purposes. Calendar event titles and descriptions are not stored in plain text. Instead, they are irreversibly hashed, meaning the original content cannot be reconstructed. Calendar IDs and event IDs (which may contain personal information such as email addresses) are not stored at all.
+* The content of calendar entries is not analyzed for meaning. Instead, only whether events are identical (based on their hashed representation) is evaluated. Additionally, only non-identifying metadata such as timestamps and durations are used.
+* At no point can individual users be identified from the stored data.
 * The data will be deleted after the completion of the thesis.
-
 * By providing your data, you agree to the processing as described [here](/CONSENT.md)
 
 ## Bonus
-As a small thank you, 20 Prisma 2 Cases will be given away among all participants who meet the requirements (after submission, mid-May).
+As a small thank you, 20 Prisma 2 Cases will be raffled among all participants who meet the requirements (after submission, mid-May).
 
 ## About the Project
 <img src="dhbw-logo.png" align="right" width="200">

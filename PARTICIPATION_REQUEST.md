@@ -1,83 +1,102 @@
 # Participation Request
 
-For my study project, I am looking for participants willing to share their game and calendar data in anonymized form.
+I am currently looking for **3 participants** for my study project in Computer Science.
 
-The goal of this project is to analyze how calendar data relates to player performance and to develop a model that can predict a player's performance at a given point in time. The data sources used are **Counter-Strike 2** (via the FACEIT platform) and calendar data (e.g., Google Calendar or other providers that support `.ics` export).
+The goal of this project is to analyze how calendar data relates to player performance in Counter-Strike 2 and to develop a model that can predict a player's performance at a given point in time.
 
-The final application, including the trained model, will be publicly available as a web application after the project is completed.
+The data sources used are:
+- FACEIT match data
+- Calendar data (e.g., Google Calendar or any provider supporting `.ics` export)
+
+The final application (including the trained model) will be published as a web application after completion.
+
+
 
 ## Requirements
 
-* At least 100 matches played on FACEIT (ideally 150+), **within a continuous time period (no large gaps in activity)**
-* The analyzed time period should cover an active phase of approximately **8–12 weeks** (e.g., a period with regular gameplay)
-* Ideally, match data and calendar data should overlap during this period
-* Regular use of a calendar with multiple events per week
-* Ideally consistent naming of recurring events
+To participate, you must meet the following criteria:
 
-### Additional (optional but recommended)
+- At least **100 FACEIT matches** (ideally 150+)  
+- Matches should be within a **continuous active period** (no large inactivity gaps)  
+- The analyzed period should span approximately **8–12 weeks**  
+- Calendar data should **overlap with your active play period**  
+- Regular calendar usage (**multiple events per week**)  
+- Preferably **consistent naming of recurring events**
 
-* Providing calendar data from approximately **4 weeks prior** to the analyzed period is recommended to capture contextual patterns such as routines
+### Optional (recommended)
+
+- Calendar data from ~**4 weeks prior** to the analyzed period (to capture routines)
+
+
+
+## Reward
+
+Each participant who meets the requirements will receive:
+
+👉 **10 Prisma 2 Cases (~€20 value)**
+
+- Reward is **guaranteed (no raffle)**
+- Given after successful data validation  
+- Distribution: **mid-May**
+
+⚠️ Note: Only participants whose data meets the requirements will receive the reward.
+
+
 
 ## Data Submission
 
-You can provide your calendar data in two ways (from any calendar provider that supports `.ics` export or sharing):
+You can provide your calendar data in two ways:
 
 ### Option 1 (recommended)
 
-Export your calendar as an `.ics` file and send it to me.  
-*(Most calendar providers such as Google Calendar, Outlook, Apple Calendar, etc. support this format.)*
+Export your calendar as a `.ics` file and send it via email.
 
-**Steps (example using Google Calendar, browser version):**
+**Example (Google Calendar):**
+1. Open Google Calendar  
+2. Go to Settings → *Import & Export*  
+3. Click *Export*  
+4. Send the `.ics` file (or ZIP) to:  
+   **playpredictor.de@gmail.com**
 
-1. Open Google Calendar in your browser: https://calendar.google.com/calendar/
-2. Click the gear icon in the top right → “Settings”
-3. Select “Import & Export” → “Export”  
-   *(Alternatively: select a specific calendar under “Settings for my calendars” and export it)*
-4. A ZIP file will be downloaded. Please send either the ZIP file or the contained `.ics` file via email to: **playpredictor.de@gmail.com**
 
----
 
 ### Option 2
 
-Send me a public calendar link (ICS URL) from your calendar provider.
-
-**Steps (example using Google Calendar, browser version):**
-
-1. Open Google Calendar in your browser
-2. Go to “Settings”
-3. Under “Settings for my calendars”, select the calendar you want to share
-4. Scroll down to “Access permissions for events”
-5. Enable sharing and copy the provided link
-6. Send me the link via email
+Send a **public ICS link** from your calendar provider.
 
 ---
 
-Please also include your FACEIT username.
+Additionally, please include your **FACEIT username**.
 
-*If you're unsure whether your calendar supports this, feel free to contact me.*
 
-## Note
 
-* All data will be anonymized and used exclusively for scientific purposes. Calendar event titles and descriptions are not stored in plain text. Instead, they are irreversibly hashed, meaning the original content cannot be reconstructed. Calendar IDs and event IDs (which may contain personal information such as email addresses) are not stored at all.
+## Privacy & Data Protection
 
-* The content of calendar entries is not analyzed for meaning. Instead, only whether events are identical (based on their hashed representation) is evaluated. Additionally, only non-identifying metadata such as timestamps and durations are used.
+- All data is **fully anonymized**
+- Calendar titles/descriptions are **not stored in plain text**
+- Content is only used in **irreversibly hashed form**
+- No personal identifiers (e.g., calendar IDs, emails) are stored
+- Only metadata (timestamps, durations, patterns) is analyzed
+- Data is used **exclusively for research purposes**
+- All data will be **deleted after the project**
 
-* At no point can individual users be identified from the stored data.
+At no point can individuals be identified from the stored data.
 
-* The data will be deleted after the completion of the thesis.
-
-* By providing your data, you agree to the processing as described [here](/CONSENT.md)
-
-## Bonus
-
-As a small thank you, 20 Prisma 2 Cases will be raffled among all participants who meet the requirements (after submission, mid-May). Participants will also get early access to the final tool.
 
 ## About the Project
 
 <img src="dhbw-logo.png" align="right" width="200">
 
-This project is conducted as part of my Bachelor's degree in Computer Science at the Baden-Wuerttemberg Cooperative State University (Duale Hochschule Karlsruhe).
+This project is conducted as part of my study program in Computer Science at the Baden-Wuerttemberg Cooperative State University (DHBW Karlsruhe).
 
-If you have any questions or would like more information about the project, feel free to contact me at **playpredictor.de@gmail.com**.
+If you have any questions, feel free to contact me at:  
+📧 **playpredictor.de@gmail.com**
 
-Thank you very much for your support!
+
+
+## Summary (quick version)
+
+- Need: **3 participants**
+- You provide: FACEIT + calendar data  
+- You get: **€20 in CS2 cases (guaranteed)**  
+- Fully anonymized & safe  

@@ -1,1 +1,67 @@
 /.vscode
+
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.vscode/
+
+# Auto-generated files
+*.dotCover
+*.ncrunch*
+*.vs/
+*.DS_Store
+*.vsscc
+*_i.c
+*_p.c
+*_h.h
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of PackageReference
+# except for project.json-based projects
+packages/
+
+# ASP.NET Core / Visual Studio cache files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+appsettings.*.json
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Mac
+*.DS_Store
+
+# Node / npm (falls Frontend integriert)
+node_modules/
+
+# Logs
+*.log
+
+# EF Core Migrations (optional, wenn du sie versionierst)
+# Migrations/  <-- nur auskommentieren, wenn du Migrations tracken willst
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.testsettings
+
+# Latex
+output/
+
+*.env
+*.env.*

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayPredictorWebAPI", "PlayPredictorWebAPI\PlayPredictorWebAPI.csproj", "{DE8A5AB8-91A0-47C4-AABC-D6DB85DC57D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE8A5AB8-91A0-47C4-AABC-D6DB85DC57D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE8A5AB8-91A0-47C4-AABC-D6DB85DC57D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE8A5AB8-91A0-47C4-AABC-D6DB85DC57D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE8A5AB8-91A0-47C4-AABC-D6DB85DC57D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63DD5A3D-89B1-4E30-B96A-74A8F318FADD}
+	EndGlobalSection
+EndGlobal

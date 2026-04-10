@@ -8,40 +8,45 @@ The data sources used are:
 - FACEIT match data
 - Calendar data (e.g., Google Calendar or any provider supporting `.ics` export)
 
-The final application (including the trained model) will be published as a web application after completion.
+The final application (including the trained model) will be published as a web application after completion. No raw personal data will be publicly accessible.
 
-
+---
 
 ## Requirements
 
-To participate, you must meet the following criteria:
+To participate, you should meet the following criteria:
 
-- At least **100 FACEIT matches** (ideally 150+)  
-- Matches should be within a **continuous active period** (no large inactivity gaps)  
-- The analyzed period should span approximately **8–12 weeks**  
-- Calendar data should **overlap with your active play period**  
-- Regular calendar usage (**multiple events per week**)  
-- Preferably **consistent naming of recurring events**
+- Around **80+ FACEIT matches** (ideally 100+)  
+- Reasonably active play period (no strict timeframe required)  
+- Calendar data that **overlaps with your matches**  
+- Regular calendar usage (**a few events per week is sufficient**)  
 
 ### Optional (recommended)
 
-- Calendar data from ~**4 weeks prior** to the analyzed period (to capture routines)
+- Additional calendar data from ~**4 weeks prior** (to capture routines)
 
-
+---
 
 ## Reward
 
 Each participant who meets the requirements will receive:
 
-👉 **10 Prisma 2 Cases (~€20 value)**
+👉 **€25 Steam gift card (guaranteed, no raffle)**
 
-- Reward is **guaranteed (no raffle)**
-- Given after successful data validation  
+- Reward is **guaranteed**
+- Provided after successful data validation  
 - Distribution: **mid-May**
 
 ⚠️ Note: Only participants whose data meets the requirements will receive the reward.
 
+---
 
+## Effort
+
+- Takes about **5–10 minutes**
+- Simply export your calendar and send your FACEIT username
+
+---
 
 ## Data Submission
 
@@ -58,7 +63,7 @@ Export your calendar as a `.ics` file and send it via email.
 4. Send the `.ics` file (or ZIP) to:  
    **playpredictor.de@gmail.com**
 
-
+---
 
 ### Option 2
 
@@ -68,7 +73,7 @@ Send a **public ICS link** from your calendar provider.
 
 Additionally, please include your **FACEIT username**.
 
-
+---
 
 ## Privacy & Data Protection
 
@@ -82,6 +87,14 @@ Additionally, please include your **FACEIT username**.
 
 At no point can individuals be identified from the stored data.
 
+---
+
+## Transparency
+
+You can view the current state of the project here:  
+https://github.com/alex-sf28/PlayPredictor-DHBW-study-project  
+
+---
 
 ## About the Project
 
@@ -92,11 +105,12 @@ This project is conducted as part of my study program in Computer Science at the
 If you have any questions, feel free to contact me at:  
 📧 **playpredictor.de@gmail.com**
 
-
+---
 
 ## Summary (quick version)
 
 - Need: **3 participants**
 - You provide: FACEIT + calendar data  
-- You get: **€20 in CS2 cases (guaranteed)**  
+- You get: **€25 Steam gift card (guaranteed)**  
+- Takes **5–10 minutes**
 - Fully anonymized & safe  

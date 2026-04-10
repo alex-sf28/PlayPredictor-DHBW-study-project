@@ -17,6 +17,8 @@ As part of this study, the following data will be processed:
 
 Calendar event titles and descriptions are not analyzed for meaning and are not stored in plain text.
 
+FACEIT usernames are used solely for data collection and are not stored or published in a way that allows identification of individuals.
+
 ---
 
 ## 3. Anonymization and Data Protection
@@ -46,11 +48,14 @@ The data will be stored only for the duration of the study project and will be d
 
 ## 6. Bonus / Incentive
 
-Participants who meet all study requirements will receive a guaranteed incentive (e.g., in-game items such as CS2 cases).
+Participants who meet all study requirements will receive a guaranteed incentive.
 
-The incentive will be provided only after successful validation of the submitted data and is not granted if the requirements are not fulfilled.
+👉 **€25 Steam gift card**
 
-The incentive will be delivered via a Steam trade (e.g., CS2 items). Participants are responsible for providing a valid Steam trade link or Steam account information required for the transfer.
+- The incentive will be provided only after successful validation of the submitted data  
+- No incentive will be granted if the requirements are not fulfilled  
+
+The incentive will be delivered in the form of a Steam gift card (digital code).
 
 Participation in the study is voluntary and not dependent on receiving the incentive.
 
